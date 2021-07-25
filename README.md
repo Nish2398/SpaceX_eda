@@ -34,6 +34,6 @@ The analysis is based on the following Kaggle Dataset: https://www.kaggle.com/ro
 
 ## Setup
 
-* Clone the github repository in the desrired directory.
+* Clone the github repository.
 * Create a conda environment and install all the dependencies using conda or pip.
-* Activate the environment; navigate to the repo, and type jupyter notebook to open up the repo files in a jupyter server.  
+* Activate the environment; navigate to the project directory in the repo, and type jupyter notebook to open up the repo files in a jupyter server.  
